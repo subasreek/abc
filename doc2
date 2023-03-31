@@ -1,0 +1,8 @@
+cd..
+docker images
+docker search ubuntu
+docker pull ubuntu
+docker run -it --name container1 ubuntu
+docker container ls -a
+docker container rm copy
+docker rmi ubuntu
