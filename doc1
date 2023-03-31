@@ -1,0 +1,14 @@
+cd..
+docker netwoak ls
+docker network inspect none bridgee/host
+docker network create --drive bridge net_1 
+docker pull ubuntu. 
+docker run -it --name container1 ubuntu 
+docken Container ls - a
+docker network connect net- 1 Container1
+docker network Inspect net_1 
+docker network disconnect net- 1 Container1
+docker network Inspecct net_1
+docker netwosk rm net_1
+docker netwoak ls
+
